@@ -33,6 +33,7 @@ main {
   background: url("./assets/img/monitor.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 #text__block h1 {
