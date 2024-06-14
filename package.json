@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "swiper": "^11.1.3"
+  }
+}

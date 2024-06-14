@@ -1,0 +1,174 @@
+/* Manrope */
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Futura PT */
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Thin.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Thin.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Thin.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-ExtraLight.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraLight.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraLight.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Light.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Light.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Light.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Regular.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Regular.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Regular.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Medium.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Medium.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Medium.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-SemiBold.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-SemiBold.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-SemiBold.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Bold.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Bold.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Bold.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-ExtraBold.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraBold.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraBold.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Futura PT";
+  src: url("./assets/fonts/FuturaPT/FuturaPT-Heavy.woff2") format("woff2"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Heavy.eot"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Heavy.woff") format("woff"),
+    url("./assets/fonts/FuturaPT/FuturaPT-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
