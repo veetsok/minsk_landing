@@ -72,6 +72,10 @@ main {
   align-items: center;
 }
 
+#modal.hidden {
+  display: none;
+}
+
 #modal__bg {
   position: absolute;
   inset: 0px;
